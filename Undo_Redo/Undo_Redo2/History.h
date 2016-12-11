@@ -2,8 +2,8 @@
 //  History.hpp
 //  History
 //
-//  Created by 徐艺然 on 16/11/29.
-//  Copyright © 2016年 徐艺然. All rights reserved.
+//  Created by xu on 16/11/29.
+//  Copyright © 2016年 xu. All rights reserved.
 //
 
 #ifndef DEBUG

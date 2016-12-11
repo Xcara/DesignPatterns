@@ -2,8 +2,8 @@
 //  component.hpp
 //  Composite2
 //
-//  Created by 徐艺然 on 16/12/1.
-//  Copyright © 2016年 徐艺然. All rights reserved.
+//  Created by xu on 16/12/1.
+//  Copyright © 2016 xu. All rights reserved.
 //
 
 #ifndef DEBUG

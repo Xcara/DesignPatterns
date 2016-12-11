@@ -2,8 +2,8 @@
 //  observ_application.hpp
 //  observer
 //
-//  Created by 徐艺然 on 16/11/27.
-//  Copyright © 2016年 徐艺然. All rights reserved.
+//  Created by xu on 16/11/27.
+//  Copyright © 2016 xu. All rights reserved.
 //
 
 
